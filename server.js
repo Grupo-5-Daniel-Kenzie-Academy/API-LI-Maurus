@@ -12,7 +12,8 @@ const rules = auth.rewriter({
   users: 600,
   livros: 440,
   lidos: 660,
-  semLer: 660
+  semLer: 660,
+  comentarios: 664,
 });
 
 app.use(cors());
