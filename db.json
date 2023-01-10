@@ -4,6 +4,13 @@
       "email": "teamfive@mail.com",
       "password": "$2a$10$V2GPIm43T5aKawU0CwumLOTxvW352g..HwJ8MLwEfHuklaNW9Lh82",
       "id": 1
+    },
+    {
+      "email": "jess@kenzie.com.br",
+      "password": "$2a$10$AFe9/ueFSpf64O7SNJ3Y/.5EwEpsqZt4NWtTpUxJgi13bUnpHtuV6",
+      "name": "Jéssica",
+      "image": "https://vignette.wikia.nocookie.net/fairy-knights/images/2/2a/Sakura_Haruno.png/revision/latest?cb=20160114220328",
+      "id": 2
     }
   ],
   "livros": [
@@ -13,7 +20,7 @@
       "alternative": "O novo deus da guerra!",
       "description": "Um homem ou um deus? God of war é a ascenção de um novo deus! um homem que que foi a guerra por sua nação e diante da derrota e de sua morte ele chama por Ares o deus da guerra para lhe salvar e derrotar seus inimigos, a voz de Kratos é ouvida pelo deus e foi consedido a ele 2 laminas, as laminas do caos, com elas Kratos massacrou seus inimigos no campo de batalha e saiu vitorioso, mas tudo tem um preço, ao voltar para casa cego pelo ódio emprementados pelo deus da guerra, Kratos mata sua mulher e sua filha, ao se deparar com os corpos de sua filha e esposa em seus braços, Kratos jura vingar-se contra Ares.",
       "categories": [
-        "ação",
+        "Ação",
         "Guerra",
         "Deuses",
         "Luta"
@@ -26,7 +33,7 @@
       "alternative": "O menino que sobreviveu",
       "description": "Em um mundo de magia, e bruxaria, fora da vista dos humanos não mágicos, existem bruxos e o maior bruxo das trevas que já existiu lança sua magia para aquilar seus inimigos, até o dia que ele se depara com uma criança, um bebe inofensivo ao qual também tem o mesmo destino de   seus inimigos, o bruxo lança sua magia contra a criança que sai ilesa apenas com uma cicatriz na testa, o bruxo desaparece do mundo após isso, alguns dizem que ele morreu, outros dizem que ele      apenas está fraco demais para voltar, e o menino? há de crescer e descobrir a lenda que se tornou.",
       "categories": [
-        "ação",
+        "Ação",
         "Misterio",
         "Fantasia",
         "Magia"
@@ -82,12 +89,12 @@
     },
     {
       "id": 7,
-      "title": "caçadora",
+      "title": "Caçadora",
       "alternative": "O cair dos anjos do céu",
       "description": "Uma mulher bem treinada na arte de caçar criaturas um tanto quanto incomuns, Julie Jens é uma caçadora de vampiros, treinado desde muito jovem a art de caça, tanto uma flecha quanto um pedaço de maneira na mão de Julie podem ser letais, os vampiros não tem medo ao ouvir seu nome, até o dia dela matar pessoalmente o próprio Drácula.",
       "categories": [
         "Fantasia",
-        "ação",
+        "Ação",
         "Mitologia"
       ],
       "img": "https://i.pinimg.com/564x/bb/8d/9f/bb8d9ff71ee9d7e414f5f2680a2573bc.jpg"
@@ -182,7 +189,7 @@
       "alternative": "O assassino brutal",
       "description": "O mundo foi divido em 3, entre os templários, pessoa que querem comandar o mundo através da religião, entre os assassinos, e a humanidade ignorante que não tem conhecimento sobre os lados, por gerações os assassinos vem caçando e matando os templarios para impedir os templarios de dominarem o mundo e nesta historia veremos um assino contando seus feitos para impedir a dominação dos templários.",
       "categories": [
-        "ação",
+        "Ação",
         "Luta",
         "Aventura"
       ],
@@ -206,7 +213,7 @@
       "alternative": "A ascenção da magia",
       "description": "Um mundo onde o rei e a rainha comanda os 12 reinos, apenas uma coisa é mais aterrorizante que os reis, os dragões, símbolo de força e destruição os dragões não tem donos, um dia um homem resolve ir contra o regimento do rei anarquista e pra isso utiliza da força dos dragões para assumir o poder.",
       "categories": [
-        "ação",
+        "Ação",
         "Guerra",
         "Fantasia"
       ],
@@ -263,6 +270,20 @@
       "img": "https://i.pinimg.com/564x/59/36/15/593615c1b82617e6c24f9c8d1b912e5d.jpg",
       "title": "Harry Potter e a pedra filosofal",
       "userId": "1"
+    },
+    {
+      "id": "8171",
+      "categories": "Aventura,Fantasia,Ação",
+      "img": "https://i.pinimg.com/236x/c7/c2/3d/c7c23d2efd0f1442748dd96e22c750fe.jpg",
+      "title": "O hobbit",
+      "userId": "2"
+    },
+    {
+      "id": "730",
+      "categories": "Sexo,Luta,Ação,Aventura,Mitologia,Deuses",
+      "img": "https://i.pinimg.com/236x/2f/85/9d/2f859dc9464d0032b34f42e3cad484e6.jpg",
+      "title": "A ladra do demônio",
+      "userId": "2"
     }
   ],
   "semLer": [
