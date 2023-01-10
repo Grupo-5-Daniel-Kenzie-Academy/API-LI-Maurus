@@ -11,6 +11,13 @@
       "name": "Jéssica",
       "image": "https://vignette.wikia.nocookie.net/fairy-knights/images/2/2a/Sakura_Haruno.png/revision/latest?cb=20160114220328",
       "id": 2
+    },
+    {
+      "email": "jessica@kenzie.com.br",
+      "password": "$2a$10$U7/.fudhw//lelr0Q77v0.IH53MKjXZVqZlNIq5bf/nip4mwQE8Q6",
+      "name": "Jéssica",
+      "image": "https://vignette.wikia.nocookie.net/fairyknights/images/2/2a/Sakura_Haruno.png/revision/latest?cb=20160114220328",
+      "id": 3
     }
   ],
   "livros": [
@@ -34,7 +41,7 @@
       "description": "Em um mundo de magia, e bruxaria, fora da vista dos humanos não mágicos, existem bruxos e o maior bruxo das trevas que já existiu lança sua magia para aquilar seus inimigos, até o dia que ele se depara com uma criança, um bebe inofensivo ao qual também tem o mesmo destino de   seus inimigos, o bruxo lança sua magia contra a criança que sai ilesa apenas com uma cicatriz na testa, o bruxo desaparece do mundo após isso, alguns dizem que ele morreu, outros dizem que ele      apenas está fraco demais para voltar, e o menino? há de crescer e descobrir a lenda que se tornou.",
       "categories": [
         "Ação",
-        "Misterio",
+        "Mistério",
         "Fantasia",
         "Magia"
       ],
@@ -71,7 +78,7 @@
       "categories": [
         "Investigação",
         "Romance",
-        "Misterio"
+        "Mistério"
       ],
       "img": "https://i.pinimg.com/236x/0c/d9/11/0cd9115f9755217afe9bb724297a90bd.jpg"
     },
@@ -142,7 +149,7 @@
       "description": "Em meio a uma guerra, com um corte enorme na teste e sem saber quem é, Anne acorda sozinha no meio de uma floresta, com ajuda de seu melhor amigo e de uma jovem médium, Anne terá que que sobreviver em meio ao caos instalado da guerra enquanto tenta descobrir quem ela é, sua única lembrança é de uma menina dentro de um espelho.",
       "categories": [
         "Guerra",
-        "Misterio",
+        "Mistério",
         "Investigação",
         "Aventura"
       ],
@@ -156,7 +163,7 @@
       "categories": [
         "Aventura",
         "Mitologia",
-        "Misterio"
+        "Mistério"
       ],
       "img": "https://i.pinimg.com/564x/dc/f5/be/dcf5be27c8378ee8e9aff5366caf7c41.jpg"
     },
@@ -202,7 +209,7 @@
       "description": "Era tudo lindo quando os magos viviam em harmonia, até a grande guerra, os magos foram caçados e acusados de crimes que não cometeram, magos eram muito harmoniosos e muitos morrerem na guerra e muitos dos que sobreviveram decidiram abolir a magia e acabaram morrendo logo após, mas ainda resta um, o ultimo mago, muitos acreditam que os magos estão extintos eras depois, mas ainda existe um mago esperando até o dia dele lançar suas magias novamente.",
       "categories": [
         "Magia",
-        "Misterio",
+        "Mistério",
         "Fantasia"
       ],
       "img": "https://i.pinimg.com/564x/83/91/22/83912287061048b1f076a09ea39cd302.jpg"
@@ -248,7 +255,7 @@
       "alternative": "Segredos do submundo",
       "description": "Laura Sebastian, uma mulher que depois de muito tempo fazendo contatos e amigos com pessoas, misteriosas, finalmente consegue descobrir a existencia de uma sociedade secreta, a qual ela é convidada, Laura aceita o convite euforica sobre a grande descoberta porem não sabe exatamente oque é essa sociedade e o que eles fazem, Laura vai descobrir que pode ter entrado em um grande problema que não tem como sair.",
       "categories": [
-        "Misterio",
+        "Mistério",
         "Investigação",
         "Ação",
         "Estratégia"
