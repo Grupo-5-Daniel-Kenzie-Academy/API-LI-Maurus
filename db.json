@@ -11,6 +11,20 @@
       "name": "thales",
       "image": "https://i.pinimg.com/236x/5a/b8/42/5ab8425689812143380d317555274a20.jpg",
       "id": 2
+    },
+    {
+      "email": "jess@kenzie.com.br",
+      "password": "$2a$10$AFe9/ueFSpf64O7SNJ3Y/.5EwEpsqZt4NWtTpUxJgi13bUnpHtuV6",
+      "name": "Jéssica",
+      "image": "https://vignette.wikia.nocookie.net/fairy-knights/images/2/2a/Sakura_Haruno.png/revision/latest?cb=20160114220328",
+      "id": 2
+    },
+    {
+      "email": "jessica@kenzie.com.br",
+      "password": "$2a$10$U7/.fudhw//lelr0Q77v0.IH53MKjXZVqZlNIq5bf/nip4mwQE8Q6",
+      "name": "Jéssica",
+      "image": "https://vignette.wikia.nocookie.net/fairyknights/images/2/2a/Sakura_Haruno.png/revision/latest?cb=20160114220328",
+      "id": 3
     }
   ],
   "livros": [
@@ -276,6 +290,20 @@
       "categories": "ação,Luta,Aventura",
       "img": "https://i.pinimg.com/564x/1c/a1/a6/1ca1a638344fee5cc5805824dbf7d46b.jpg",
       "title": "Assassins creed Renaissance",
+      "userId": "2"
+    },
+    {
+      "id": "8171",
+      "categories": "Aventura,Fantasia,Ação",
+      "img": "https://i.pinimg.com/236x/c7/c2/3d/c7c23d2efd0f1442748dd96e22c750fe.jpg",
+      "title": "O hobbit",
+      "userId": "2"
+    },
+    {
+      "id": "730",
+      "categories": "Sexo,Luta,Ação,Aventura,Mitologia,Deuses",
+      "img": "https://i.pinimg.com/236x/2f/85/9d/2f859dc9464d0032b34f42e3cad484e6.jpg",
+      "title": "A ladra do demônio",
       "userId": "2"
     }
   ],
