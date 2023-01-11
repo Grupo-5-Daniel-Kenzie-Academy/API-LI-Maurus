@@ -4,16 +4,23 @@
       "email": "teamfive@mail.com",
       "password": "$2a$10$V2GPIm43T5aKawU0CwumLOTxvW352g..HwJ8MLwEfHuklaNW9Lh82",
       "id": 1
+    },
+    {
+      "email": "thales@mail.com",
+      "password": "$2a$10$tDWV5H2X5Q62KqvC72e0Cegnpn.jIXgu6f8Tr5iJ43hQiiWBEWYw.",
+      "name": "thales",
+      "image": "https://i.pinimg.com/236x/5a/b8/42/5ab8425689812143380d317555274a20.jpg",
+      "id": 2
     }
   ],
   "livros": [
     {
       "id": 1,
-      "title": " God of war Parte 2",
+      "title": " God of war",
       "alternative": "O novo deus da guerra!",
-      "description": "Um homem ou um deus? God of war é a ascenção de um novo deus! um homem que que foi a guerra por sua nação e diante da derrota e de sua morte ele chama por Ares o deus da guerra para lhe salvar e derrotar seus inimigos, a voz de Kratos é ouvida pelo deus e foi consedido a ele 2 laminas, as laminas do caos, com elas Kratos massacrou seus inimigos no campo de batalha e saiu vitorioso, mas tudo tem um preço, ao voltar para casa cego pelo ódio emprementados pelo deus da guerra, Kratos mata sua mulher e sua filha, ao se deparar com os corpos de sua filha e esposa em seus braços, Kratos jura vingar-se contra Ares.",
+      "description": "Um homem ou um deus? God of war é a ascensão de um novo deus! um homem que que foi a guerra por sua nação e diante da derrota e de sua morte ele chama por Ares o deus da guerra para lhe salvar e derrotar seus inimigos, a voz de Kratos é ouvida pelo deus e foi concedido a ele 2 laminas, as laminas do caos, com elas Kratos massacrou seus inimigos no campo de batalha e saiu vitorioso, mas tudo tem um preço, ao voltar para casa cego pelo ódio implementados pelo deus da guerra, Kratos mata sua mulher e sua filha, ao se deparar com os corpos de sua filha e esposa em seus braços, Kratos jura vingar-se contra Ares.",
       "categories": [
-        "ação",
+        "Ação",
         "Guerra",
         "Deuses",
         "Luta"
@@ -24,10 +31,10 @@
       "id": 2,
       "title": "Harry Potter e a pedra filosofal",
       "alternative": "O menino que sobreviveu",
-      "description": "Em um mundo de magia, e bruxaria, fora da vista dos humanos não mágicos, existem bruxos e o maior bruxo das trevas que já existiu lança sua magia para aquilar seus inimigos, até o dia que ele se depara com uma criança, um bebe inofensivo ao qual também tem o mesmo destino de   seus inimigos, o bruxo lança sua magia contra a criança que sai ilesa apenas com uma cicatriz na testa, o bruxo desaparece do mundo após isso, alguns dizem que ele morreu, outros dizem que ele      apenas está fraco demais para voltar, e o menino? há de crescer e descobrir a lenda que se tornou.",
+      "description": "Em um mundo de magia, e bruxaria, fora da vista dos humanos não mágicos, existem bruxos e o maior bruxo das trevas que já existiu lança sua magia para aniquilar seus inimigos, até o dia que ele se depara com uma criança, um bebe inofensivo ao qual também tem o mesmo destino de  seus inimigos, o bruxo lança sua magia contra a criança que sai ilesa apenas com uma cicatriz na testa, o bruxo desaparece do mundo após isso, alguns dizem que ele morreu, outros dizem que ele apenas está fraco demais para voltar, e o menino? há de crescer e descobrir a lenda que se tornou.",
       "categories": [
-        "ação",
-        "Misterio",
+        "Ação",
+        "Mistério",
         "Fantasia",
         "Magia"
       ],
@@ -41,7 +48,7 @@
       "categories": [
         "Romance",
         "Fantasia",
-        "Comedia"
+        "Comédia"
       ],
       "img": "https://i.pinimg.com/564x/f2/5b/bf/f25bbf9fca611caddb66088e8af17598.jpg"
     },
@@ -49,7 +56,7 @@
       "id": 4,
       "title": "O ladrão de raios",
       "alternative": "Zeus perde seu raio",
-      "description": "Em um mundo de deuses e semi deuses onde o relacionamento entre humanos e deuses era comum, surgiu-se conflitos familiares, tantos que zeus decretou que os deuses abandonassem seus filhos semi deuses, agora, com a chegada de um ladrão e repersões de varios semi deuses abandonados que decidem fazer o caos, os deuses precisam da ajuda de seus filhos, aqueles que não sentem recentimento pelo oque aconteceu, para ajuda-los a controlar o caos entre os semi deuses, um deles com raiva, pelo decreto de zeus, rouba sua maior arma, o raio de zeus, que nas mãos erradas pode ser catastrófico.",
+      "description": "Em um mundo de deuses e semi deuses onde o relacionamento entre humanos e deuses era comum, surgiu-se conflitos familiares, tantos que Zeus decretou que os deuses abandonassem seus filhos semi deuses, agora, com a chegada de um ladrão e repercussões de vários semi deuses abandonados que decidem fazer o caos, os deuses precisam da ajuda de seus filhos, aqueles que não sentem ressentimento pelo o que aconteceu, para ajuda-los a controlar o caos entre os semi deuses, um deles com raiva pelo decreto de zeus, rouba sua maior arma, o raio de zeus, que nas mãos erradas pode ser catastrófico.",
       "categories": [
         "Fantasia",
         "Deuses"
@@ -59,12 +66,12 @@
     {
       "id": 5,
       "title": "Naked Heat",
-      "alternative": "A detetive implacavel",
-      "description": "Um jornalista que está fazendo uma matéria até que um amigo seu morre, uma detetive de homicidios vai investigar o caso, o escritor se encanta pela detetive, e com a ajudinha de seu amigo prefeito que sempre joga poker com ele todas as quintas, ele consegue ficar a par do caso e tem permição de auxiliar na investigação, a detetive não fica nada contente com a situação, porem trabalho é trabalho, o jornalista aproveita a situação pra investigar o caso e a detetive também.",
+      "alternative": "A detetive implacável",
+      "description": "Um jornalista que está fazendo uma matéria até que um amigo seu morre, uma detetive de homicídios vai investigar o caso, o escritor se encanta pela detetive, e com a ajuda de seu amigo prefeito que sempre joga pôquer com ele todas as quintas, ele consegue ficar a par do caso e tem permissão de auxiliar na investigação, a detetive não fica nada contente com a situação, porem trabalho é trabalho, o jornalista aproveita a situação pra investigar o caso e conhecer a detetive também.",
       "categories": [
         "Investigação",
         "Romance",
-        "Misterio"
+        "Mistério"
       ],
       "img": "https://i.pinimg.com/236x/0c/d9/11/0cd9115f9755217afe9bb724297a90bd.jpg"
     },
@@ -72,7 +79,7 @@
       "id": 6,
       "title": "A queda dos anjos",
       "alternative": "O cair dos anjos do céu",
-      "description": "Seguidos por Lúcifer vários anjos se rebelam contra deus e começam a cair, o banimento de deus sobre os anjos e suas quedas podem ter acontecido, mas não antes de uma boa guerra angelical.",
+      "description": "Seguidos por Lúcifer vários anjos se rebelaram contra deus e começam a cair, o banimento de deus sobre os anjos e suas quedas pode ter acontecido, mas não antes de uma boa guerra angelical.",
       "categories": [
         "Guerra",
         "Religião",
@@ -82,12 +89,12 @@
     },
     {
       "id": 7,
-      "title": "caçadora",
-      "alternative": "O cair dos anjos do céu",
-      "description": "Uma mulher bem treinada na arte de caçar criaturas um tanto quanto incomuns, Julie Jens é uma caçadora de vampiros, treinado desde muito jovem a art de caça, tanto uma flecha quanto um pedaço de maneira na mão de Julie podem ser letais, os vampiros não tem medo ao ouvir seu nome, até o dia dela matar pessoalmente o próprio Drácula.",
+      "title": "Caçadora",
+      "alternative": "Elas têm medo de seu nome!",
+      "description": "Uma mulher bem treinada na arte de caçar criaturas um tanto quanto incomuns, Julie Jens é uma caçadora de vampiros, treinada desde muito jovem a arte de caça, tanto uma flecha quanto um pedaço de maneira na mão de Julie podem ser letais, os vampiros não tem medo de ouvir seu nome, até o dia dela matar o próprio Drácula.",
       "categories": [
         "Fantasia",
-        "ação",
+        "Ação",
         "Mitologia"
       ],
       "img": "https://i.pinimg.com/564x/bb/8d/9f/bb8d9ff71ee9d7e414f5f2680a2573bc.jpg"
@@ -106,7 +113,7 @@
       "id": 9,
       "title": "A ladra do demônio",
       "alternative": "Fugitiva do inferno",
-      "description": "Victoria Aveyard é um demônio que conseguiu se soltar do inferno, ela não quer fazer muito alarde para não ser detectada pelos anjos, também não quer dizer que ela vai ser boazinha, o demonio seu lider, manda Victoria roubar a exencia dos humanos e convertelos para ferir a maior criação de deus, o homem, porem apesar de servir seu mestre, Victoria não quer voltar para o inferno, então ela decide ter uma bela vida cheia de loucuras em Hollywood.",
+      "description": "Victoria Aveyard é um demônio que conseguiu se soltar do inferno, ela não quer fazer muito alarde para não ser detectada pelos anjos, também não quer dizer que ela vai ser boazinha, o demônio seu líder, manda Victoria roubar a essência dos humanos e convertê-los para ferir a maior criação de deus, o homem, porem apesar de servir seu mestre, Victoria não quer voltar para o inferno, então ela decide ter uma bela vida cheia de loucuras em Hollywood.",
       "categories": [
         "Sexo",
         "Luta",
@@ -121,7 +128,7 @@
       "id": 10,
       "title": "Suntzu a Arte da Guerra",
       "alternative": "O estrátegista brilhante",
-      "description": "Yang Jin foi um grande general chinês que recebeu o titulo de maior prestigio de deus país por ter vencido uma guerra de com apenas 2 mil homens contra um exercito de mais de 50 mil, ele escreveu um livro sobre a arte da guerra, e os metodos utilizados para vencer a batalha, agora traduzido para portugues, Yang Jin afirma que todos os métodos utilizados foram honrosos com seus inimigos.",
+      "description": "Yang Jin foi um grande general chinês que recebeu o título de maior prestigio de deus país, por ter vencido uma guerra com apenas 2 mil homens contra um exército de mais de 50 mil, ele escreveu um livro sobre a arte da guerra, e os métodos utilizados para vencer a batalha, agora traduzido para português, Yang Jin afirma que todos os métodos utilizados foram honrosos com seus inimigos.",
       "categories": [
         "Guerra",
         "Estratégia"
@@ -135,7 +142,7 @@
       "description": "Em meio a uma guerra, com um corte enorme na teste e sem saber quem é, Anne acorda sozinha no meio de uma floresta, com ajuda de seu melhor amigo e de uma jovem médium, Anne terá que que sobreviver em meio ao caos instalado da guerra enquanto tenta descobrir quem ela é, sua única lembrança é de uma menina dentro de um espelho.",
       "categories": [
         "Guerra",
-        "Misterio",
+        "Mistério",
         "Investigação",
         "Aventura"
       ],
@@ -145,19 +152,19 @@
       "id": 12,
       "title": "Poseidon",
       "alternative": "A história da seria",
-      "description": "Grande parte do planeta é composto por agua, e quem acha que tem apenas agua nos oceanos engana-se! serias e tritões são criaturas que vivem escondidas da humanidade, porem não quer dizer elas não estão lá.",
+      "description": "Grande parte do planeta é composto por água, e quem acha que tem apenas água nos oceanos engana-se! serias e tritões são criaturas que vivem escondidas da humanidade, porém não quer dizer elas não estão lá.",
       "categories": [
         "Aventura",
         "Mitologia",
-        "Misterio"
+        "Mistério"
       ],
       "img": "https://i.pinimg.com/564x/dc/f5/be/dcf5be27c8378ee8e9aff5366caf7c41.jpg"
     },
     {
       "id": 13,
       "title": "A garota dos pesadelos",
-      "alternative": "Você não irá durmir nuca mais!",
-      "description": "Emily Thomas uma fotografa que começa a encontrar coisas estranhas nas suas fotografias, começa a ter pesadelos com uma menina de vestido com de sangue que não a deixa descançar, ela está sempre lá, a espreita, atormentando Emily, Emily terá de provar que não está enloquecendo e encontar uma forma de se livrar na menina da causa de seus pesadelos.",
+      "alternative": "Você nunca mais irá dormir!",
+      "description": "Emily Thomas uma fotografa que começa a encontrar coisas estranhas nas suas fotografias, começa a ter pesadelos com uma menina de vestido cor de sangue que não a deixa descansar, ela está sempre lá, à espreita, atormentando Emily, Emily terá de provar que não está enlouquecendo e encontrar uma forma de se livrar da menina que causa seus pesadelos.",
       "categories": [
         "Terror",
         "Investigação"
@@ -167,8 +174,8 @@
     {
       "id": 14,
       "title": "Mulheres que correm com os lobos",
-      "alternative": "A historia de uma deusa",
-      "description": "Lobos sempre foram criaturas que representavam medo, principalmente em meninas, porém nem sempre foi assim onde lobos eram vistos como criaturas violentas, na Grécia antiga, Artêmis a caçadora, amamentava os herois, mas como chegou a isto? a natureza selvagem e instintiva de artemos foi ficando mais docil com o passar dos tempos, dizem que aqueles amamentados por ela se tornavam grandes guerreiros.",
+      "alternative": "A história de uma deusa",
+      "description": "Lobos sempre foram criaturas que representavam medo, principalmente em meninas, porém nem sempre foi assim onde lobos eram vistos como criaturas violentas, na Grécia antiga, Artêmis a caçadora, amamentava os heróis, mas como chegou a isto? a natureza selvagem e instintiva de Artêmis foi ficando mais dócil com o passar dos tempos, dizem que aqueles amamentados por ela se tornavam grandes guerreiros.",
       "categories": [
         "Deuses",
         "Fantasia",
@@ -180,9 +187,9 @@
       "id": 15,
       "title": "Assassins creed Renaissance",
       "alternative": "O assassino brutal",
-      "description": "O mundo foi divido em 3, entre os templários, pessoa que querem comandar o mundo através da religião, entre os assassinos, e a humanidade ignorante que não tem conhecimento sobre os lados, por gerações os assassinos vem caçando e matando os templarios para impedir os templarios de dominarem o mundo e nesta historia veremos um assino contando seus feitos para impedir a dominação dos templários.",
+      "description": "O mundo foi divido em 3, entre os templários, pessoas que querem comandar o mundo através da religião, entre os assassinos, que matam os templários para manter o mundo livre, e a humanidade ignorante que não tem conhecimento sobre os lados, por gerações os assassinos vem caçando e matando os templários para impedir os templários de dominarem o mundo e nesta história veremos um assassino contando seus feitos para impedir a dominação dos templários.",
       "categories": [
-        "ação",
+        "Ação",
         "Luta",
         "Aventura"
       ],
@@ -195,7 +202,7 @@
       "description": "Era tudo lindo quando os magos viviam em harmonia, até a grande guerra, os magos foram caçados e acusados de crimes que não cometeram, magos eram muito harmoniosos e muitos morrerem na guerra e muitos dos que sobreviveram decidiram abolir a magia e acabaram morrendo logo após, mas ainda resta um, o ultimo mago, muitos acreditam que os magos estão extintos eras depois, mas ainda existe um mago esperando até o dia dele lançar suas magias novamente.",
       "categories": [
         "Magia",
-        "Misterio",
+        "Mistério",
         "Fantasia"
       ],
       "img": "https://i.pinimg.com/564x/83/91/22/83912287061048b1f076a09ea39cd302.jpg"
@@ -203,10 +210,10 @@
     {
       "id": 17,
       "title": "House of the dragon",
-      "alternative": "A ascenção da magia",
+      "alternative": "O poder do dragão",
       "description": "Um mundo onde o rei e a rainha comanda os 12 reinos, apenas uma coisa é mais aterrorizante que os reis, os dragões, símbolo de força e destruição os dragões não tem donos, um dia um homem resolve ir contra o regimento do rei anarquista e pra isso utiliza da força dos dragões para assumir o poder.",
       "categories": [
-        "ação",
+        "Ação",
         "Guerra",
         "Fantasia"
       ],
@@ -215,8 +222,8 @@
     {
       "id": 18,
       "title": "O hobbit",
-      "alternative": "O pequeno heroi",
-      "description": "Um pequenino que recebe uma missão de salvar o lar dos anões que está sendo até então servindo de abrigo para um dragão, pequenino se junto com um grupo de anões e um mago com a intenção de recuperar o lar dos anões e trazer prosperidade para eles novamente.",
+      "alternative": "O pequeno herói",
+      "description": "Um pequenino que recebe uma missão de salvar o lar dos anões que está sendo até então abrigo para um dragão, o pequenino se junto com um grupo de anões e um mago com a intenção de recuperar o lar dos anões e trazer prosperidade para eles novamente.",
       "categories": [
         "Aventura",
         "Fantasia",
@@ -228,7 +235,7 @@
       "id": 19,
       "title": "Christine",
       "alternative": "O amor de Christine",
-      "description": "Um adolescente excluído da sociedade que se apaixona por um carro, o carro abaca tendo uma reação controladora apartir do sentimento de seu dono, e seu ciúme faz com que o carro persiga seus amigos e pessoas perto do garoto para ele não se relacionar com mais ninguém além do carro.",
+      "description": "Um adolescente excluído da sociedade que se apaixona por um carro, o carro acaba tendo uma reação controladora a partir do sentimento de seu dono, e seu ciúme faz com que o carro persiga seus amigos e pessoas perto do garoto para ele não se relacionar com mais ninguém além do carro.",
       "categories": [
         "Fantasia",
         "Terror"
@@ -239,9 +246,9 @@
       "id": 20,
       "title": "A sociedade secreta",
       "alternative": "Segredos do submundo",
-      "description": "Laura Sebastian, uma mulher que depois de muito tempo fazendo contatos e amigos com pessoas, misteriosas, finalmente consegue descobrir a existencia de uma sociedade secreta, a qual ela é convidada, Laura aceita o convite euforica sobre a grande descoberta porem não sabe exatamente oque é essa sociedade e o que eles fazem, Laura vai descobrir que pode ter entrado em um grande problema que não tem como sair.",
+      "description": "Laura Sebastian, uma mulher que depois de muito tempo fazendo contatos e amigos com pessoas, misteriosas, finalmente consegue descobrir a existência de uma sociedade secreta, a qual ela é convidada, Laura aceita o convite eufórica sobre a grande descoberta porem não sabe exatamente o que é essa sociedade e o que eles fazem, Laura vai descobrir que pode ter entrado em um grande problema que não tem como sair.",
       "categories": [
-        "Misterio",
+        "Mistério",
         "Investigação",
         "Ação",
         "Estratégia"
@@ -263,6 +270,13 @@
       "img": "https://i.pinimg.com/564x/59/36/15/593615c1b82617e6c24f9c8d1b912e5d.jpg",
       "title": "Harry Potter e a pedra filosofal",
       "userId": "1"
+    },
+    {
+      "id": "1125",
+      "categories": "ação,Luta,Aventura",
+      "img": "https://i.pinimg.com/564x/1c/a1/a6/1ca1a638344fee5cc5805824dbf7d46b.jpg",
+      "title": "Assassins creed Renaissance",
+      "userId": "2"
     }
   ],
   "semLer": [
